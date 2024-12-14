@@ -1,0 +1,10 @@
+{
+  "name": "paint-online",
+  "version": "1.0.0",
+  "description": "Online paint tool built with HTML, CSS, and JavaScript.",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "keywords": ["paint", "html", "css", "javascript"],
+  "license": "MIT"
+}
